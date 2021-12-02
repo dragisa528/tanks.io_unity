@@ -1,7 +1,11 @@
-Mechanics: control tank, shoots other tank and shape, get point, upgrade skills with point.
-Platform: Web, Mobile, PC
-Monetization: None
-Audience: .io games clients
+Mechanics
+  control tank, shoots other tank and shape, get point, upgrade skills with point
+Platform
+  Web, Mobile, PC
+Monetization
+  None
+Audience
+  .io games clients
 
 Graphics
 - triangles
