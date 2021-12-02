@@ -1,39 +1,116 @@
-Mechanics
-  - control tank, shoots other tank and shape, get point, upgrade skills with point
+Contribution: 2021-11-03 20:00
 
-Platform
-  - Web, Mobile, PC
+Contribution: 2021-11-04 20:00
 
-Monetization
-  - None
+Contribution: 2021-11-04 20:01
 
-Audience
-  - .io games clients
+Contribution: 2021-11-04 20:02
 
-Graphics
-- triangles
-- squares
-- pentagon
-- hexagons
-- circles
+Contribution: 2021-11-04 20:03
 
-Game field
-- grid
+Contribution: 2021-11-04 20:04
 
-Tanks
-- body
-- guns 
-- turret 
+Contribution: 2021-11-04 20:05
 
-Type
-- mele
-- sniper
-- Machines
+Contribution: 2021-11-04 20:06
 
-Max Level
-7
+Contribution: 2021-11-04 20:07
 
-Controls
-- wasd key move
-- rotate towards mouse position
-- auto or mouse down
+Contribution: 2021-11-04 20:08
+
+Contribution: 2021-11-05 20:00
+
+Contribution: 2021-11-09 20:00
+
+Contribution: 2021-11-10 20:00
+
+Contribution: 2021-11-10 20:01
+
+Contribution: 2021-11-10 20:02
+
+Contribution: 2021-11-10 20:03
+
+Contribution: 2021-11-10 20:04
+
+Contribution: 2021-11-10 20:05
+
+Contribution: 2021-11-10 20:06
+
+Contribution: 2021-11-10 20:07
+
+Contribution: 2021-11-11 20:00
+
+Contribution: 2021-11-11 20:01
+
+Contribution: 2021-11-11 20:02
+
+Contribution: 2021-11-11 20:03
+
+Contribution: 2021-11-11 20:04
+
+Contribution: 2021-11-11 20:05
+
+Contribution: 2021-11-11 20:06
+
+Contribution: 2021-11-11 20:07
+
+Contribution: 2021-11-11 20:08
+
+Contribution: 2021-11-12 20:00
+
+Contribution: 2021-11-12 20:01
+
+Contribution: 2021-11-12 20:02
+
+Contribution: 2021-11-12 20:03
+
+Contribution: 2021-11-15 20:00
+
+Contribution: 2021-11-15 20:01
+
+Contribution: 2021-11-15 20:02
+
+Contribution: 2021-11-15 20:03
+
+Contribution: 2021-11-15 20:04
+
+Contribution: 2021-11-15 20:05
+
+Contribution: 2021-11-15 20:06
+
+Contribution: 2021-11-15 20:07
+
+Contribution: 2021-11-15 20:08
+
+Contribution: 2021-11-15 20:09
+
+Contribution: 2021-11-15 20:10
+
+Contribution: 2021-11-16 20:00
+
+Contribution: 2021-11-18 20:00
+
+Contribution: 2021-11-18 20:01
+
+Contribution: 2021-11-18 20:02
+
+Contribution: 2021-11-18 20:03
+
+Contribution: 2021-11-18 20:04
+
+Contribution: 2021-11-18 20:05
+
+Contribution: 2021-11-18 20:06
+
+Contribution: 2021-11-19 20:00
+
+Contribution: 2021-11-19 20:01
+
+Contribution: 2021-11-19 20:02
+
+Contribution: 2021-11-19 20:03
+
+Contribution: 2021-11-19 20:04
+
+Contribution: 2021-11-19 20:05
+
